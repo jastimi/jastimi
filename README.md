@@ -66,3 +66,45 @@ Outside of data, I enjoy **exploring AI-driven solutions**, mentoring peers, and
 ---
 
 ✨ *Currently seeking opportunities to build and scale modern data platforms. Let’s collaborate on data engineering, analytics, or AI-driven projects!*  
+
+
+
+## 🔥 Tech Stack  
+
+![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python&logoColor=FFD43B)
+![SQL](https://img.shields.io/badge/SQL-3B4252?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-4C566A?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
+![Airflow](https://img.shields.io/badge/Airflow-434C5E?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)  
+![AWS](https://img.shields.io/badge/AWS-2E3440?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-3B4252?style=for-the-badge&logo=microsoft-azure&logoColor=008AD7)
+![Databricks](https://img.shields.io/badge/Databricks-4C566A?style=for-the-badge&logo=databricks&logoColor=FF3621)
+![Snowflake](https://img.shields.io/badge/Snowflake-434C5E?style=for-the-badge&logo=snowflake&logoColor=29B5E8)  
+![Power BI](https://img.shields.io/badge/PowerBI-2E3440?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Tableau](https://img.shields.io/badge/Tableau-3B4252?style=for-the-badge&logo=tableau&logoColor=E97627)
+![Docker](https://img.shields.io/badge/Docker-4C566A?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-434C5E?style=for-the-badge&logo=kubernetes&logoColor=326CE5)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohansai&show_icons=true&theme=graywhite&title_color=2E3440&text_color=2E3440&icon_color=4C566A)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohansai&layout=compact&theme=graywhite&title_color=2E3440&text_color=2E3440)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohansai&theme=transparent&ring=4C566A&fire=2E3440&currStreakLabel=2E3440)  
+
+---
+
+## 👀 Profile Visitors  
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohansai&style=for-the-badge&color=4C566A)  
+
+---
+
+## 🌐 Let’s Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2E3440?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/mohansai)  
+[![Email](https://img.shields.io/badge/Email-3B4252?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:mohansai@example.com)  
+
+---
+
+✨ *Currently seeking opportunities to build and scale modern data platforms. Let’s collaborate on data engineering, analytics, or AI-driven projects!*  
