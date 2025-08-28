@@ -4,3 +4,6 @@
 
 I’m passionate about turning raw data into reliable insights.
 With hands-on experience across Azure, AWS, and Big Data platforms, I love solving complex data problems — from real-time pipelines to analytics-ready data models that power decisions.
+
+
+Outside of data, I enjoy exploring AI-driven solutions, mentoring peers, and experimenting with side projects that mix data, cloud, and automation.
