@@ -70,16 +70,16 @@ Outside of data, I enjoy **exploring AI-driven solutions**, mentoring peers, and
 
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=mohansai&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohansai&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohansai&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=mohansai&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohansai&layout=compact&theme=algolia)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohansai&theme=algolia)
 
 ## 👀 Profile Visitors
-![Views](https://komarev.com/ghpvc/?username=mohansai&style=for-the-badge&color=8A2BE2)
+![Views](https://komarev.com/ghpvc/?username=mohansai&style=for-the-badge&color=1E90FF)
 
-## 🔥 Tech Stack (purple badges)
-![Python](https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-6C63FF?style=for-the-badge&logo=apachespark&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-6C63FF?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-6C63FF?style=for-the-badge&logo=amazon-aws&logoColor=white)
+## 🔥 Tech Stack (blue badges)
+![Python](https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-1E90FF?style=for-the-badge&logo=apachespark&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-1E90FF?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-1E90FF?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
