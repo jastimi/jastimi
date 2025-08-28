@@ -68,27 +68,3 @@ Outside of data, I enjoy **exploring AI-driven solutions**, mentoring peers, and
 ✨ *Currently seeking opportunities to build and scale modern data platforms. Let’s collaborate on data engineering, analytics, or AI-driven projects!*  
 
 
-
-## 📊 GitHub Stats  
-
-![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohansai&show_icons=true&theme=algolia)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohansai&layout=compact&theme=algolia)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohansai&theme=algolia)  
-
----
-
-## 👀 Profile Visitors  
-
-![Profile Views](https://komarev.com/ghpvc/?username=mohansai&style=for-the-badge&color=1E90FF)  
-
----
-
-## 🌐 Let’s Connect  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohansai)  
-[![Email](https://img.shields.io/badge/Email-4682B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohansai@example.com)  
-
----
-
-✨ *Currently seeking opportunities to build and scale modern data platforms. Let’s collaborate on data engineering, analytics, or AI-driven projects!*  
-
