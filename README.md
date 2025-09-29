@@ -46,9 +46,9 @@ Outside of data, I enjoy **exploring AI-driven solutions**, mentoring peers, and
 
 ## 📊 GitHub Stats  
 
-![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohansai&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohansai&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohansai&theme=tokyonight)  
+![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jastimi&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jastimi&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jastimi&theme=tokyonight)  
 
 ---
 
