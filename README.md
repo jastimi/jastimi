@@ -61,7 +61,7 @@ Outside of data, I enjoy **exploring AI-driven solutions**, mentoring peers, and
 ## 🌐 Let’s Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohansai3/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohansai@example.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohansai.0399@example.com)  
 
 ---
 
