@@ -54,7 +54,7 @@ Outside of data, I enjoy **exploring AI-driven solutions**, mentoring peers, and
 
 ## 👀 Profile Visitors  
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohansai&style=for-the-badge)  
+![Profile Views](https://komarev.com/ghpvc/?username=jastimi&style=for-the-badge)  
 
 ---
 
